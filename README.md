@@ -6,4 +6,4 @@ Repositorio de la materia "Analisis de datos" de la FIUBA MIAE 2025.
 ## Integrantes
 
 - HECTOR DANTE MENDOZA
-- JORGE VAZQUES
+- JORGE VASQUEZ
